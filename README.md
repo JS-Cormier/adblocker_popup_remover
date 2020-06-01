@@ -6,6 +6,7 @@ I made this for my own personal use and it is not optimized. I will probably cle
 the supported websites lists as I come across them, but for now it does what I want.
 
 # Supported websites
+* https://insider.com/ (and https://www.businessinsider.com/)
 * https://www.journaldemontreal.ca/
 * https://www.journaldequebec.ca/
 * https://www.meteomedia.com/
