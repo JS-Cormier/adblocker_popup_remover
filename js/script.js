@@ -12,6 +12,18 @@ var supportedWebsites = [
 		"overflowHidden" : true
 	},
 	{
+		"name" : "Météomédia",
+		"domain" : "https://www.meteomedia.com/",
+		"classesToRemove" : ["fc-ab-root"],
+		"overflowHidden" : false
+	},
+	{
+		"name" : "The Weather Network",
+		"domain" : "https://www.theweathernetwork.com/",
+		"classesToRemove" : ["fc-ab-root"],
+		"overflowHidden" : false
+	},
+	{
 		"name" : "TVA Sports",
 		"domain" : "https://www.tvasports.ca/",
 		"classesToRemove" : ["popup-adblocker"],
