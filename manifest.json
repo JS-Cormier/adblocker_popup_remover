@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+	
+    "name": "Adblock popup remover",
+    "version": "1.0",
+    "description": "Removes popups from websites asking to disable Adblock",
+	
+	"author": "Jean-Simon Cormier",
+	
+	"content_scripts": [
+    {
+      "matches": [ "https://*/*" ],
+      "js": [ "js/script.js" ]
+    }]
+}
