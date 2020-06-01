@@ -8,5 +8,7 @@ the supported websites lists as I come across them, but for now it does what I w
 # Supported websites
 * https://www.journaldemontreal.ca/
 * https://www.journaldequebec.ca/
+* https://www.meteomedia.com/
+* https://www.theweathernetwork.com/
 * https://www.tvanouvelles.ca/
 * https://www.tvasports.ca/
